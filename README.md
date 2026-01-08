@@ -5,7 +5,7 @@ images
 
 
 ![Imagen 1](img/img_1.png)
-![Imagen 2](img/img_2.png)
-![Imagen 3](img/img_3.png)
-![Imagen 4](img/img_4.png)
+![Imagen 2](img/img_2.jpg)
+![Imagen 3](img/img_3.jpg)
+![Imagen 4](img/img_4.jpg)
 
